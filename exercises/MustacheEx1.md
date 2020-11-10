@@ -2,11 +2,13 @@
 		
 > Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository.
 
-## Clone the Mustache Repository
+## Download OR Clone the Mustache Repository
 
-1.	Copy the clone URL from your new repository [https://github.com/noucampdotorgCSAD2019/Mustache](https://github.com/noucampdotorgCSAD2019/Mustache)
+1.	Download the *Mustache* repository from [here](https://github.com/noucampdotorgCSAD2020/Mustache) and put into your ``htdocs`` folder
 
-1.	Type these commands into your *Git Bash* client:
+	**OR**
+
+	Copy the clone URL from your new repository [https://github.com/noucampdotorgCSAD2020/Mustache](https://github.com/noucampdotorgCSAD2020/Mustache) and then type these commands into your *Git Bash* client:
 
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
